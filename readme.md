@@ -2,7 +2,7 @@
 
 Uma calculadora com as **funções básicas** (**/**, **\***, **-**, **+**) criada utilizando **React Native**.
 
-[Imgur](https://i.imgur.com/y8ao3ey.png)
+<img src="https://i.imgur.com/y8ao3ey.png" alt="Calculadora" width="187" height="400">
 
 ## 🔥 Instalação e execução
 
