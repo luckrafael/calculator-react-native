@@ -6,8 +6,8 @@ Uma calculadora com as **funções básicas** (**/**, **\***, **-**, **+**) cria
 
 ## 🔥 Instalação e execução
 
-1. Faça um clone desse repositório: `git clone https://github.com/Alfredosavi/Calculadora-ReactNative.git`;
-2. `cd Calculadora-ReactNative`
+1. Faça um clone desse repositório: `git clone https://github.com/luckrafael/calculator-react-native`;
+2. `cd calculator-react-native`
 3. Instale as dependências com: `yarn install ou npm install`;
 4. Rode com:
    1. `npx react-native start` ou apenas os comandos abaixo;
